@@ -12,10 +12,10 @@
     "LICENSE"
   ],
   "dependencies": {
-    "vitest": "^2.1.8",
     "xxh3-ts": "^1.0.6"
   },
   "devDependencies": {
-    "@types/node": "^22.10.2"
+    "@types/node": "^22.10.2",
+    "vitest": "^2.1.8"
   }
 }
